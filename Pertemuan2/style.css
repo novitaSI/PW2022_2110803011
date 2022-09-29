@@ -1,0 +1,19 @@
+style{
+    font-family: 'Courier New', 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+
+p{
+    color: rgb(236, 196, 255);
+    text-align: justify;
+    text-indent: 20px;
+    text-decoration: none;
+    text-transform: lowercase;
+
+}
+
+
