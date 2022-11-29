@@ -64,7 +64,7 @@ body {
 
 .hero {
     height: 320px;
-    background-image: url(hi.jpg);
+    background-image: url(headerr.png);
     background-size: cover;
     background-position: 0 -500px;
     border-bottom: 5px solid lightskyblue ;
